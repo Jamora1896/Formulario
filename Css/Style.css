@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+    margin: 50px;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: cornsilk;
+}
+h1{
+    color: brown;
+    text-align: center;
+    font-family: cursive;
+}
+p{
+    color: lightcoral;
+    text-align: justify;
+    font-size: large;
+}
